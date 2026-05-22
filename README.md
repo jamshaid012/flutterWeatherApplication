@@ -24,12 +24,3 @@ flutter run
 
 Enter a city name, optionally paste a Gemini API key, and tap **Get Weather**.
 
-## GitHub Submission
-
-Push this project to GitHub. On the assignment title page, include:
-
-- Student name and roll number
-- Course name
-- Assignment title
-- GitHub repository link
-- QR code generated from the GitHub repository link
